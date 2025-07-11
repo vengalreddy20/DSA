@@ -16,4 +16,4 @@ function binarySearch(arr,target) {
   }
   return -1
 }
-console.log(binarySearch(arr,tagret))
+console.log(binarySearch(arr,target))
